@@ -16,3 +16,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+Reference: 
+https://alligator.io/vuejs/basic-ssr/
+vue-server-renderer docs
+Official Vue Guide: SSR
